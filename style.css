@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(36, 36, 36);
+}
+
+h1{
+    color: gainsboro;
+    text-align: center;
+    margin-bottom: 35px;
+    font-family: fantasy;
+    margin-top: 100px;
+}
+
+p{
+    color: gainsboro;
+    margin-left: 820px;
+}
+
+label{
+    color: gainsboro;
+    margin-left: 830px;
+}
+
+.botao{
+    margin-left: 900px;
+}
+
+a{
+    color: gainsboro;
+    text-decoration: none;
+    margin-left: 900px
+}
+
+a:hover{
+    color: gainsboro;
+    text-decoration: underline;
+}
